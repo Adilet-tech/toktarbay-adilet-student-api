@@ -1,6 +1,6 @@
 # Toktarbay Adilet Student API
 
-Student Name: Adilet Toktarbay - main branch
+Student Name: Adilet Toktarbay - DevOps Midterm Project
 University: International IT University
 Course: DevOps
 
