@@ -1,6 +1,6 @@
 # Toktarbay Adilet Student API
 
-Student Name: Adilet Toktarbay
+Student Name: Adilet Toktarbay - Documentation Branch
 University: International IT University
 Course: DevOps
 
