@@ -17,6 +17,25 @@ This project is a Spring Boot Student CRUD API.
 - Docker
 - Jenkins
 
+
+## CRUD Implementation
+
+Author: Adilet Toktarbay
+
+Implemented REST API operations:
+
+- POST /api/students
+- GET /api/students
+- GET /api/students/{id}
+- PUT /api/students/{id}
+- DELETE /api/students/{id}
+
+Technology stack:
+- Java 21
+- Spring Boot
+- Spring Data JPA
+- PostgreSQL
+
 ## Author
 
 Adilet Toktarbay
