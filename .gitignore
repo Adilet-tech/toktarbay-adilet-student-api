@@ -1,0 +1,12 @@
+.gradle/
+build/
+out/
+.idea/
+.vscode/
+*.class
+*.jar
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
